@@ -1,0 +1,22 @@
+{
+  "name": "telegram-mongodb-boilerplate",
+  "version": "1.0.0",
+  "keywords": [
+    "telegram",
+    "telegraf",
+    "mongodb",
+    "boilerplate"
+  ],
+  "description": "Telegram boilerplate with telegraf and mongodb.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Aplin",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.2",
+    "telegraf": "^3.38.0"
+  }
+}
